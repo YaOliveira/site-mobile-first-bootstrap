@@ -1,2 +1,2 @@
-# site-mobile-first-bootstrap
-Landing page construído no conceito mobile first utilizando bootstrap 
+#Mobile First
+Landing page "conceito mobile first" utilizando bootstrap.
