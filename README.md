@@ -1,2 +1,2 @@
-#Mobile First
-Landing page "conceito mobile first" utilizando bootstrap.
+# Landing Page
+### Projeto desenvolvido em HTML, Bootstrap e CSS para concluir o curso da Alura.
